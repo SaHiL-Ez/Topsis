@@ -3,6 +3,8 @@
 [![PyPI version](https://badge.fury.io/py/Topsis-Sahil-102316091.svg)](https://badge.fury.io/py/Topsis-Sahil-102316091)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Project on PyPI: [https://pypi.org/project/Topsis-Sahil-102316091/](https://pypi.org/project/Topsis-Sahil-102316091/)
+
 A Python package to implement **TOPSIS** (Technique for Order of Preference by Similarity to Ideal Solution), a multi-criteria decision analysis method.
 
 ---
